@@ -1,0 +1,68 @@
+#paraghraph{
+    background-color:salmon;
+    text-transform: capitalize;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid teal;
+    color: black;
+}
+#image1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column-reverse;
+  margin: auto;
+  width: 55%;
+  
+}
+#image2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column-reverse;
+  margin: auto;
+  width: 55%;
+    
+}
+
+#prix1{
+  color: blue;
+  font-weight: bold;
+}
+
+#prix2{
+  color: blue;
+  font-weight: bold;
+}
+
+*{
+  background-color:wheat;
+}
+
+.delete{
+  background-color:red;
+  height: 20px;
+  width: 6%;
+  font-weight:bold;  
+} 
+
+
+.min-btn {
+  height: 50px;
+    width: 3%;
+    background-color:salmon;
+   color:black  ;
+    border-radius: 7px;
+    margin-top: 15px; 
+    
+  } 
+    
+  .plus-btn {
+    height: 50px;
+    width: 3%;
+    background-color: salmon;
+   color: white  ;
+    border-radius: 7px;
+    margin-top: 15px;
+  }
+  
